@@ -1,4 +1,4 @@
-const endDate = "29 july 2023 12:00:00 PM" //const is used for variable declaration and endDate is a variable
+const endDate = "29 july 2030 12:00:00 PM" //const is used for variable declaration and endDate is a variable
 // const endDate2 = new Date('29 june 2022 10:25 PM')
 
 document.getElementById("end-date").innerText = endDate;
